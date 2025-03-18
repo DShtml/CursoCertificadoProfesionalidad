@@ -1,0 +1,15 @@
+/* CSS Hoja de estilo. aulaclic.css */
+
+h1 { text-align: center}
+
+h2 { color:blue}
+
+a:link {
+    text-decoration: none;
+}
+body {
+    background-color: #F7F0E2;
+}
+ol li {
+    margin: 5%;
+    list-style-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.HdvQER7YHRM9ettQMti8uwHaGY%26pid%3DApi&f=1&ipt=710eab2aeb54dedd9a7a333186c981376229bfa94ceab9e1d572c4527f32db03&ipo=images);
