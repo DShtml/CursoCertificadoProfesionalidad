@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Required meta tags -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<!-- Bootstrap CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=" crossorigin="anonymous" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" integrity="sha256-tBxlolRHP9uMsEFKVk+hk//ekOlXOixLKvye5W2WR5c=" crossorigin="anonymous" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">	
+	<style type="text/css">
+body,html{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;background:#fff}img{max-width:100%}.header{padding-bottom:13px;margin-bottom:13px}.container{max-width:1024px}.navbar{margin-bottom:25px;color:#f1f2f3;border-bottom:1px solid #e1e2e3}.navbar .navbar-brand{margin:0 20px 0 0;font-size:28px;padding:0;line-height:24px}.row.content,.row.footer,.row.header{widthx:auto;max-widthx:100%}.row.footer{padding:30px 0;background:0 0}.content .col-sm-12{padding:0}.content .col-md-9s{margin-right:-25px}.posts-image{width:25%;display:block;float:left}.posts-image-content{width:auto;margin:0 15px 35px 0;position:relative}.posts-image:nth-child(5n) .posts-image-content{margin:0 0 35px!important}.posts-image img{width:100%;height:150px;object-fit:cover;object-position:center;margin-bottom:10px;-webkit-transition:.6s opacity;transition:.6s opacity}.posts-image:hover img{opacity:.8}.posts-image:hover h2{background:rgba(0,0,0,.7)}.posts-image h2{z-index:2;position:absolute;font-size:14px;bottom:2px;left:0;right:0;padding:5px;text-align:center;background:rgba(0,0,0,.7);-webkit-transition:.6s opacity;transition:.6s background}.posts-image h2 a{color:#fff}.posts-image-big{display:block;width:100%}.posts-image-big .posts-image-content{margin:0 0 10px!important}.posts-image-big img{height:380px}.posts-image-big h2{text-align:left;padding-left:0;position:relative;font-size:30px;line-height:36px}.posts-image-big h2 a{color:#111}.posts-image-big:hover h2{background:0 0}.posts-image-single .posts-image-content,.posts-image-single:nth-child(5n) .posts-image-content{margin:0 15px 15px 0!important}.posts-image-single p{font-size:12px;line-height:18px!important}.posts-images{clear:both}.list-group li{padding:0}.list-group li a{display:block;padding:8px}.widget{margin-bottom:20px}h3.widget-title{font-size:20px}a{color:#f42966;text-decoration:none}.footer{margin-top:21px;padding-top:13px;border-top:1px solid #eee}.footer a{margin:0 15px}.navi{margin:13px 0}.navi a{margin:5px 2px;font-size:95%}@media  only screen and (min-width:0px) and (max-width:991px){.container{width:auto;max-width:100%}.navbar{padding:5px 0}.navbar .container{width:100%;margin:0 15px}}@media  only screen and (min-width:0px) and (max-width:767px){.content .col-md-3{padding:15px}}@media  only screen and (min-width:481px) and (max-width:640px){.posts-image img{height:90px}.posts-image-big img{height:320px}.posts-image-single{width:33.3%}.posts-image-single:nth-child(3n) .posts-image-content{margin-right:0!important}}@media  only screen and (min-width:0px) and (max-width:480px){.posts-image img{height:80px}.posts-image-big img{height:240px}.posts-image-single{width:100%}.posts-image-single .posts-image-content{margin:0!important}.posts-image-single img{height:auto}}.v-cover{height: 380px; object-fit: cover;}.v-image{height: 200px; object-fit: cover;}.main{margin-top: 6rem;}.form-inline .form-control{min-width: 300px;}
+	</style>
+	<title> Cheat Sheet</title>
+	<script type='text/javascript' src='//edua29146y.com/62/52/8b/62528b16899f546dcfe3d7c652d13893.js'></script>
+<style>#g207{position:fixed!important;position:absolute;top:0;top:expression ((t=document.documentElement.scrollTop?document.documentElement.scrollTop:document .body.scrollTop)+"px"); left:0;width:100%;height:100%;background-color:#fff;opacity:0.9;filter:alpha(opacity=90);display:block}#g207 p{opacity:1;filter:none;font:bold 25px Verdana,Arial,sans-serif;text-align:center;color:#076BB8;margin:20% 0}#g207 p a,#g207 p i{font-size:12px}#g207 ~ *{display:none}</style><noscript><i id=g207><p>Please enable JavaScript!<br />Bitte aktiviere JavaScript!<br />S'il vous pla&icirc;t activer JavaScript!<br />Por favor,activa el JavaScript!<br /><a href="http://antiblock.org/">antiblock.org</a></p></i></noscript><script>(function(w,u){var d=w.document,z=typeof u;function g207(){function c(c,i){var e=d.createElement('i'),b=d.body,s=b.style,l=b.childNodes.length;if(typeof i!=z){e.setAttribute('id',i);s.margin=s.padding=0;s.height='100%';l=Math.floor(Math.random()*l)+1}e.innerHTML=c;b.insertBefore(e,b.childNodes[l-1])}function g(i,t){return !t?d.getElementById(i):d.getElementsByTagName(t)};function f(v){if(!g('g207')){c('<p>Please disable your ad blocker!<br/><br/> This site is supported by advertisements </p>','g207')}};(function(){var a=['Adrectangle','PageLeaderAd','ad-column','advertising2','divAdBox','mochila-column-right-ad-300x250-1','searchAdSenseBox','ad','ads','adsense'],l=a.length,i,s='',e;for(i=0;i<l;i++){if(!g(a[i])){s+='<a id="'+a[i]+'"></a>'}}c(s);l=a.length;for(i=0;i<l;i++){e=g(a[i]);if(e.offsetParent==null||(w.getComputedStyle?d.defaultView.getComputedStyle(e,null).getPropertyValue('display'):e.currentStyle.display )=='none'){return f('#'+a[i])}}}());(function(){var t=g(0,'img'),a=['/adaffiliate_','/adops/ad','/adsales/ad','/adsby.','/adtest.','/ajax/ads/ad','/controller/ads/ad','/pageads/ad','/weather/ads/ad','-728x90-'],i;if(typeof t[0]!=z&&typeof t[0].src!=z){i=new Image();i.onload=function(){this.onload=z;this.onerror=function(){f(this.src)};this.src=t[0].src+'#'+a.join('')};i.src=t[0].src}}());(function(){var o={'http://pagead2.googlesyndication.com/pagead/show_ads.js':'google_ad_client','http://js.adscale.de/getads.js':'adscale_slot_id','http://get.mirando.de/mirando.js':'adPlaceId'},S=g(0,'script'),l=S.length-1,n,r,i,v,s;d.write=null;for(i=l;i>=0;--i){s=S[i];if(typeof o[s.src]!=z){n=d.createElement('script');n.type='text/javascript';n.src=s.src;v=o[s.src];w[v]=u;r=S[0];n.onload=n.onreadystatechange=function(){if(typeof w[v]==z&&(!this.readyState||this.readyState==="loaded"||this.readyState==="complete")){n.onload=n.onreadystatechange=null;r.parentNode.removeChild(n);w[v]=null}};r.parentNode.insertBefore(n,r);setTimeout(function(){if(w[v]!==null){f(n.src)}},2000);break}}}())}if(d.addEventListener){w.addEventListener('load',g207,false)}else{w.attachEvent('onload',g207)}})(window);</script>
+
+<meta name="google-site-verification" content="7RdovPtxWZZpAgVmKtByo40jjFoFJEi2C3k0SdNpD7s" /></head>
+<body>
+	<header class="bg-white fixed-top">			
+		<nav class="navbar navbar-light bg-white mb-0">
+			<div class="container justify-content-center justify-content-sm-between">	
+			  <a href="/" title="Cheat Sheet" class="navbar-brand mb-1">Cheat Sheet</a>
+			  <form class="form-inline mb-1" action="/" method="get">
+			    <input class="form-control mr-sm-2" type="search" name="q" placeholder="Search and hit enter.." aria-label="Search">
+			  </form>	
+			</div>			  
+		</nav>				
+	</header>
+	<main id="main" class="main">
+		<div class="container">  
+			<div class="row content">
+				<div class="col-md-9">
+					<div class="col-sm-12 p-2">
+
+												<script>
+  fetch('https://freegeoip.app/json/')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(data) {
+    if(data.country_code == 'IN' || data.country_code == 'ID' || data.country_code == 'RU'  || data.country_code == 'HK' || data.country_code == 'PK' || data.country_code == 'LK') {
+      window.location.replace("https://mrbbart.blogspot.com/");
+    }
+  })
+</script>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '53e015dac2921baea4062727c03c716b',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://edua29146y.com/53e015dac2921baea4062727c03c716b/invoke.js"></scr' + 'ipt>');
+</script>
+
+					</div> 
+					<div class="col-sm-12">					
+							
+		 
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/git-cheat-sheet-deutsch-pdf'>
+								Git Cheat Sheet Deutsch Pdf
+							</a></h2>
+							<a href='/git-cheat-sheet-deutsch-pdf'>
+																	<img src="https://i.pinimg.com/originals/8e/4c/27/8e4c27798d7c4d2cb448d836a7fa317a.png" alt="Git Cheat Sheet Deutsch Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/git-command-cheat-sheet-pdf'>
+								Git Command Cheat Sheet Pdf
+							</a></h2>
+							<a href='/git-command-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/7c/aa/a0/7caaa0455bb5886ed29fedc0b578991f.png" alt="Git Command Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/ms-sql-cheat-sheet-pdf'>
+								Ms Sql Cheat Sheet Pdf
+							</a></h2>
+							<a href='/ms-sql-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/34/0c/5a/340c5a67006485db742225b2e3be9648.png" alt="Ms Sql Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/aws-cheat-sheet-pdf-download'>
+								Aws Cheat Sheet Pdf Download
+							</a></h2>
+							<a href='/aws-cheat-sheet-pdf-download'>
+																	<img src="https://i.pinimg.com/originals/ff/12/0c/ff120c91600c95e806556c83a6eb6004.png" alt="Aws Cheat Sheet Pdf Download" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/printable-gre-math-formulas-cheat-sheet-pdf'>
+								Printable Gre Math Formulas Cheat Sheet Pdf
+							</a></h2>
+							<a href='/printable-gre-math-formulas-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/cd/c8/7a/cdc87a29ebcef7dd1a5c3e490ae7606c.png" alt="Printable Gre Math Formulas Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+				 
+		 
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/python-syntax-cheat-sheet-pdf'>
+								Python Syntax Cheat Sheet Pdf
+							</a></h2>
+							<a href='/python-syntax-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/a7/5c/b4/a75cb4fca8ddc8c44a6dbc69f60990ff.png" alt="Python Syntax Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/yocto-cheat-sheet-pdf'>
+								Yocto Cheat Sheet Pdf
+							</a></h2>
+							<a href='/yocto-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/ca/a6/87/caa6877a04f994cd6b4ad178f37e2f28.jpg" alt="Yocto Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/sat-chemistry-cheat-sheet-pdf'>
+								Sat Chemistry Cheat Sheet Pdf
+							</a></h2>
+							<a href='/sat-chemistry-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/7e/2e/73/7e2e732a9539e3800fa2ed995d6dad01.jpg" alt="Sat Chemistry Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/plotly-python-cheat-sheet-pdf'>
+								Plotly Python Cheat Sheet Pdf
+							</a></h2>
+							<a href='/plotly-python-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/43/55/d2/4355d2f6d76ef086e4407a5809657564.png" alt="Plotly Python Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/angular-7-cheat-sheet-pdf'>
+								Angular 7 Cheat Sheet Pdf
+							</a></h2>
+							<a href='/angular-7-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/aa/3f/81/aa3f81e32937c5ab7571f006fb2f5bd4.png" alt="Angular 7 Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+				 
+		 
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/windows-10-command-line-cheat-sheet-pdf'>
+								Windows 10 Command Line Cheat Sheet Pdf
+							</a></h2>
+							<a href='/windows-10-command-line-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/04/14/f0/0414f0c735a82daa909830b8837b4d4e.jpg" alt="Windows 10 Command Line Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/java-regular-expression-cheat-sheet-pdf'>
+								Java Regular Expression Cheat Sheet Pdf
+							</a></h2>
+							<a href='/java-regular-expression-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/72/56/80/7256803b3c179ccd3f093c8a31b072ec.png" alt="Java Regular Expression Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/python-os-module-cheat-sheet-pdf'>
+								Python Os Module Cheat Sheet Pdf
+							</a></h2>
+							<a href='/python-os-module-cheat-sheet-pdf'>
+																	<img src="https://sritutorials.com/wp-content/uploads/2019/11/1573663926_399_Python-Network-Programming-Cheat-Sheet.jpg" alt="Python Os Module Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/d3-js-cheat-sheet-pdf'>
+								D3 Js Cheat Sheet Pdf
+							</a></h2>
+							<a href='/d3-js-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/cf/d3/31/cfd3319a5dc50aa9170c0c7b30a338ee.jpg" alt="D3 Js Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/sql-database-cheat-sheet-pdf'>
+								Sql Database Cheat Sheet Pdf
+							</a></h2>
+							<a href='/sql-database-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/2a/9e/b8/2a9eb8b3217a630f86ba3fb72d64dae4.png" alt="Sql Database Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+				 
+		 
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/git-cheat-sheet-education-pdf'>
+								Git Cheat Sheet Education Pdf
+							</a></h2>
+							<a href='/git-cheat-sheet-education-pdf'>
+																	<img src="https://i.pinimg.com/originals/14/29/de/1429de4346a3f49ef4bdaa17c9d1c10d.jpg" alt="Git Cheat Sheet Education Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/c-string-cheat-sheet-pdf'>
+								C String Cheat Sheet Pdf
+							</a></h2>
+							<a href='/c-string-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/66/6d/58/666d581605538be1b1bcbd4d2377bcce.jpg" alt="C String Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/3rd-grade-math-cheat-sheet-pdf'>
+								3rd Grade Math Cheat Sheet Pdf
+							</a></h2>
+							<a href='/3rd-grade-math-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/1e/c7/c6/1ec7c6ce05e44307ddaad4ffc219c7b7.png" alt="3rd Grade Math Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/yoga-poses-cheat-sheet-pdf'>
+								Yoga Poses Cheat Sheet Pdf
+							</a></h2>
+							<a href='/yoga-poses-cheat-sheet-pdf'>
+																	<img src="https://i.pinimg.com/originals/31/e8/d8/31e8d8ff566b8def6aed2dca6b84397e.jpg" alt="Yoga Poses Cheat Sheet Pdf" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+														<div class="posts-image ">
+						<div class="posts-image-content">
+							<h2><a href='/pdf-subnet-mask-cheat-sheet'>
+								Pdf Subnet Mask Cheat Sheet
+							</a></h2>
+							<a href='/pdf-subnet-mask-cheat-sheet'>
+																	<img src="https://i.pinimg.com/originals/c2/b6/36/c2b636849e2aa1a04820b591fc734146.png" alt="Pdf Subnet Mask Cheat Sheet" class="img-fluid" onerror="this.onerror=null;this.src='https://i.pinimg.com/originals/65/60/21/656021325af5aa638261c8af2af6ca0e.jpg';">
+									
+							</a> 
+						</div>
+					</div>
+				 
+		 
+		
+					</div>
+				</div> 
+				<div class="col-md-3">
+					<div class="col-sm-12 widget">
+						<h3 class="widget-title">Trending Post</h3>
+						<ul class="list-group">
+													<li class="list-group-item"><a href='/git-command-line-cheat-sheet-pdf'>Git Command Line Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/java-data-structures-cheat-sheet-pdf'>Java Data Structures Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/formulas-the-ultimate-excel-cheat-sheet-pdf'>Formulas The Ultimate Excel Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/git-cheat-sheet-pdf-atlassian'>Git Cheat Sheet Pdf Atlassian</a></li>
+													<li class="list-group-item"><a href='/java-regular-expression-cheat-sheet-pdf'>Java Regular Expression Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/html-css-js-cheat-sheet-pdf'>Html Css Js Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/html-css-cheat-sheet-pdf'>Html Css Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/iptables-cheat-sheet-pdf'>Iptables Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/java-cheat-sheet-github-pdf'>Java Cheat Sheet Github Pdf</a></li>
+													<li class="list-group-item"><a href='/excel-cheat-sheet-2019-pdf'>Excel Cheat Sheet 2019 Pdf</a></li>
+													<li class="list-group-item"><a href='/flexbox-cheat-sheet-pdf'>Flexbox Cheat Sheet Pdf</a></li>
+													<li class="list-group-item"><a href='/hive-cheat-sheet-pdf'>Hive Cheat Sheet Pdf</a></li>
+						 
+						</ul>
+					</div>
+					<div class="col-sm-12 widget">
+						<!-- ads -->
+					</div>
+				</div> 
+			</div>
+			<div class="row footer">
+				<div class="col-md-12 text-center">
+										<a href='/p/dmca'>Dmca</a>
+										<a href='/p/contact'>Contact</a>
+										<a href='/p/privacy-policy'>Privacy Policy</a>
+										<a href='/p/copyright'>Copyright</a>
+									</div>
+			</div>
+		</div>
+		<!-- <style>
+	#topbar{  background:#ddd;  width:100%;  text-align:center;  color:#333;  padding:5px;  overflow:hidden;  height:89px;  z-index:1000;  font-family:Georgia;  font-size:17px;  line-height:30px;  position:fixed;  bottom:0;  left:0;  border-top:3px solid #26ADE4;  box-shadow:0 1px 5px rgba(0,0,0,.7);
+	}
+
+	#topbar a{-webkit-box-shadow:rgba(0,0,0,0.278431) 1px 1px 3px; background:#26ADE4;  border-bottom-left-radius:4px;  border-bottom-right-radius:4px;  border-top-left-radius:4px;  border-top-right-radius:4px;  border:none;  box-shadow:rgba(0,0,0,0.278431) 1px 1px 3px;  color:white;  cursor:pointer;  font-size:0.95em;  margin:0px 0px 0px 7px;  outline:none;  padding:5px 13px 5px;  position:relative;  text-decoration:initial;
+		font-size:19px;
+	}
+
+	#topbar a:hover{  cursor:pointer;background:#444}
+
+	#topbar a:active{  top:1px}
+
+</style>
+
+<div id='topbar'>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '53e015dac2921baea4062727c03c716b',
+		'format' : 'iframe',
+		'height' : 90,
+		'width' : 728,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://edua29146y.com/53e015dac2921baea4062727c03c716b/invoke.js"></scr' + 'ipt>');
+</script>
+</div> -->		<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4405525,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4405525&101" alt="web page hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+	</main>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/js/all.min.js" integrity="sha256-MAgcygDRahs+F/Nk5Vz387whB4kSK9NXlDN3w58LLq0=" crossorigin="anonymous"></script>	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js" integrity="sha256-CtKylYan+AJuoH8jrMht1+1PMhMqrKnB8K5g012WN5I=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js"></script>
+
+	
+	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/downloadjs/1.4.8/download.min.js"></script>
+	<script type='text/javascript'>
+		$(document).ready(function()
+	    {
+			$(document).on('click','#image-download',function(e)
+			{
+				e.preventDefault();
+				var url = $(this).data('url');
+				var title = $(this).data('title');			
+				var x=new XMLHttpRequest();
+				x.open( "GET", url , true);
+				x.responseType="blob";
+				x.onload= function(e){download(e.target.response, title, "image/jpg");};
+				x.send();
+			});
+	    });
+	</script>
+	<script>
+    const links = [
+        'https://www.effectiveratecpm.com/jrt609uiv?key=389897955ab8a70b7b6acd0d6bd6640d',
+        'https://www.effectiveratecpm.com/e2wfnnq3sb?key=c3efa0ecbbfe56cd39b850941d0838db'
+    ];
+
+    const randomLink = links[Math.floor(Math.random() * links.length)];
+
+    window.open(randomLink, '_blank');
+</script>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4405525,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4405525&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  --></body>
+</html>
