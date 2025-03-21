@@ -6,7 +6,6 @@
 		<meta name=”author” content=”DSprog”>
 		<title>Ejercicio 5</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<html manifest=”datos_cache.appcache”>
 		<title>Ejercicio 5</title>
 		<style>
 			.catalogo {
@@ -25,7 +24,7 @@
 
 			}
 			.producto {
-				flex: 1; /* */
+				flex: 1; /* Espacio  que ocupará*/
 				padding: 15px;
 				border: #333 2px solid;
 				border-radius: 8px;
@@ -58,6 +57,14 @@
 				transform: scale(1.03);
 				box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2s);
 			}
+			.producto_2:hover {
+				transform: scale(1.03);
+				box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2s);
+			}
+			.producto_3:hover {
+				transform: scale(1.03);
+				box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2s);
+			}
 			.producto h2 {
 				margin-bottom: 10px;
 				color: #2d3436;
@@ -75,8 +82,8 @@
 				margin-bottom: 0;
 			}
 			.oferta {
-				position: absolute; /* absolute=su padre debe tener position=relative */
-				top: 10px; /* Posicion en relación al padre*/
+				position: absolute; /* absolute: su padre debe tener position=relative */
+				top: 10px; /* Posicion relativa al padre*/
 				right: 10px;
 				background-color: white;
 				color: #e74c3c;
@@ -88,7 +95,7 @@
 			}
 			.oferta:hover {
 				position: absolute; /* absolute=su padre debe tener position=relative */
-				top: 10px; /* Posicion en relación al padre*/
+				top: 10px; /* Posicion relativa al padre*/
 				right: 10px;
 				background-color: #e74c3c;
 				color: white;
@@ -103,9 +110,8 @@
 				rotate: 10deg;
 			}
 			.catalogo img{
+				max-width:100px;
 				border-radius: 5px;
-				max-height: 100px;
-				width: auto%;
 				align-items: center;
 			}
 		</style>
